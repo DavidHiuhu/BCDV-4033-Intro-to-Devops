@@ -1,8 +1,0 @@
-name: hello-david
-on: push
-jobs:
-  Say-My-Name:
-    runs-on: ubuntu-latest
-    steps:
-      - name: my-step
-        run: echo "Hello!! My name is David Hiuhu - 101509799"
